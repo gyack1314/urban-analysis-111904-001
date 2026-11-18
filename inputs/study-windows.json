@@ -1,0 +1,27 @@
+{
+  "fit": [
+    "2025-01-01",
+    "2025-02-10"
+  ],
+  "diagnose": [
+    "2025-02-10",
+    "2025-03-02"
+  ],
+  "post": [
+    "2025-03-02",
+    "2025-05-01"
+  ],
+  "as_of": "2025-05-01T00:00:00+08:00",
+  "future_scenarios": [
+    {
+      "id": "extended-hours",
+      "extra_hours": 2,
+      "occupancy_change_fraction": 0.1
+    },
+    {
+      "id": "setpoint-review",
+      "setpoint_delta_c": 1,
+      "occupancy_change_fraction": 0
+    }
+  ]
+}

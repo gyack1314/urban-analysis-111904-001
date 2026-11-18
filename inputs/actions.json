@@ -1,0 +1,9 @@
+[
+  {
+    "action": "recognize_nonroutine_change",
+    "change_id": "SERVER-A",
+    "known_at": "2025-05-03T00:00:00+08:00",
+    "classification": "nonroutine",
+    "evidence": "新增机房验收记录，未给调整电量"
+  }
+]

@@ -1,0 +1,67 @@
+{
+  "files": [
+    {
+      "path": "actions.json",
+      "bytes": 238,
+      "sha256": "bb7b97fd19b545a5319f809557ee257298f66076f7056f65d3361c4472adac33"
+    },
+    {
+      "path": "changes.parquet",
+      "bytes": 3205,
+      "sha256": "6942de3abe56ba55792c22213e0e81735f0ea524d213bb6f3706d8adec47c5fe",
+      "rows": 3
+    },
+    {
+      "path": "comfort.parquet",
+      "bytes": 2277340,
+      "sha256": "eb7da36c88be925dc5b6536c1198ccd1f635a1d8992e5938eafa126794e47c74",
+      "rows": 5760
+    },
+    {
+      "path": "contracts.parquet",
+      "bytes": 3348,
+      "sha256": "f292db28d01d4ea7196a76f65a3035050985099d0419eb0218424798ec2cd3c8",
+      "rows": 2
+    },
+    {
+      "path": "energy.parquet",
+      "bytes": 4943131,
+      "sha256": "ebeee61625511cc7a28e0a2e2ccccfa96ce3f30cf4d7256a57364d64bf395562",
+      "rows": 8640
+    },
+    {
+      "path": "meter_links.parquet",
+      "bytes": 1405,
+      "sha256": "5f91240ec839ff14d02d9c2d9799381fecfbd43ba6ff9744d44d438ae8aff034",
+      "rows": 2
+    },
+    {
+      "path": "occupancy.parquet",
+      "bytes": 3388498,
+      "sha256": "69d5228f699d998dc2ecb214dac47a271333cc15a08042d86759aa3e3715c695",
+      "rows": 5760
+    },
+    {
+      "path": "seed.json",
+      "bytes": 3637082,
+      "sha256": "615d7573c9ae3beb1ba97aeb0c45d09b7ca484b23da18ada36f69fb96532e8c8"
+    },
+    {
+      "path": "study-windows.json",
+      "bytes": 471,
+      "sha256": "7c8a76fcf688a28ae5814e985d230d83116edf0fba4c307a2846cb106d26c0db"
+    },
+    {
+      "path": "tariffs.parquet",
+      "bytes": 2483,
+      "sha256": "a91ca26f40a05b41e1c93204ea243a0d309761732c781e8411f76fc49cf246e1",
+      "rows": 4
+    },
+    {
+      "path": "weather.parquet",
+      "bytes": 1160818,
+      "sha256": "0ea82b8ad7209ae3a71b0d3d69b2e7f2c692c744a7cc448f9b7d7bf976e2e72b",
+      "rows": 2880
+    }
+  ]
+}
